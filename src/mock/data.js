@@ -22,8 +22,8 @@ export const aboutData = {
     'Computer Science graduate student with a keen interest in Cyber Security and Software Development.',
   paragraphTwo: 'Enjoys Gaming, Anime, Riding Motorbikes, Reading and Learning. Game Dev hobbist',
   paragraphThree:
-    ' Currently having working experience in Networking, Server Management, Elearning Platforms and a bit of Programming',
-  resume: 'https://drive.google.com/file/d/1ixrtuBnkL6jZEbu6MooyQ8pYSUVmDSo0/view', // if no resume, the button will not show up
+    ' Currently having working experience in Networking, Server Management, Elearning Platforms Wordpress Website Management and a bit of Programming in ReactJS and ASP.NET',
+  resume: 'https://drive.google.com/file/d/19FGmr4i-F1zek-cq7x9OrVuLer6WZF73/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -35,7 +35,7 @@ export const projectsData = [
     info:
       'This Project is created in two parts Client-Side and Server-Side. The Clientside is created in ReactJS which is a frontend Javascript library. Its purpose is to display the popular movies fed to it by the TMDB api.',
     info2:
-      'This is where the movie database api is used to create routes that feed information to the clientside. The Project was created for a challenge hosted by The ZIG.',
+      ' Server-side created in .NET, This is where the movie database api is used to create routes that feed information to the clientside.',
     url: ' ',
     repo: 'https://github.com/Desire01/interview-coding-challenge', // if no repo, the button will not show up
   },

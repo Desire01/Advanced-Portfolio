@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Desire', // e.g: 'Name | Developer'
+  title: 'My Portfoilo', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: 'Welcome To My Potfolio', // e.g: Welcome to my website
 };
@@ -66,7 +66,7 @@ export const projectsData = [
 export const contactData = {
   cta: ' Would you like to have a chat or maybe you have work for me?',
   btn: 'Lets Get Talking',
-  email: 'yavlumene@gmail.com',
+  email: 'desirelumene07@gmail.com',
 };
 
 // FOOTER DATA

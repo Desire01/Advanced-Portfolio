@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo: 'Enjoys Gaming, Anime, Riding Motorbikes, Reading and Learning. Game Dev hobbist',
   paragraphThree:
     ' Currently having working experience in Networking, Server Management, Elearning Platforms Wordpress Website Management and a bit of Programming in ReactJS and ASP.NET',
-  resume: 'https://drive.google.com/file/d/19FGmr4i-F1zek-cq7x9OrVuLer6WZF73/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1xPiZpAR6M6UNE97mh6Zh0xFRy2-6WXwr/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -36,7 +36,7 @@ export const projectsData = [
       'This Project is created in two parts Client-Side and Server-Side. The Clientside is created in ReactJS which is a frontend Javascript library. Its purpose is to display the popular movies fed to it by the TMDB api.',
     info2:
       ' Server-side created in .NET, This is where the movie database api is used to create routes that feed information to the clientside.',
-    url: ' ',
+    
     repo: 'https://github.com/Desire01/interview-coding-challenge', // if no repo, the button will not show up
   },
   {
